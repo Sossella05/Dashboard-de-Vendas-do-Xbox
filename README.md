@@ -16,17 +16,15 @@ Este projeto apresenta um dashboard interativo desenvolvido no **Microsoft Excel
 - Segmentações de Dados
 - Gráficos Dinâmicos
 
+## 📁 Arquivo
+
+- `Dashboard de Vendas do Xbox com Excel.xlsx`: Arquivo principal do projeto com o dashboard pronto para uso.
+
 ## 📌 Como Usar
 
 1. Baixe o arquivo `.xlsx` deste repositório
 2. Abra com Excel (recomenda-se versão 2016 ou superior)
 3. Use os filtros e segmentações para visualizar os dados de diferentes formas
-
-## 📷 Prévia
-
-*Insira aqui uma imagem ou GIF do dashboard se quiser melhorar a apresentação.*
-
----
 
 ### 📄 Licença
 
